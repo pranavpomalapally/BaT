@@ -19,23 +19,13 @@ class ViewController: UIViewController, WKUIDelegate {
         webView = WKWebView(frame: .zero, configuration: webConfiguration)
         webView.uiDelegate = self
         view = webView
+        webView.allowsBackForwardNavigationGestures = true
     }
     override func viewDidLoad() {
         super.viewDidLoad()
         let myURL = URL(string: "https://bringatrailer.com/")
         let myRequest = URLRequest(url: myURL!)
         webView.load(myRequest)
-
-        
-        //To go forward:
-        let leftSwipe = UISwipeGestureRecognizer(target: webView, action: #selector(webView.goForward))
-        leftSwipe.direction = .left
-        webView.addGestureRecognizer(leftSwipe)
-
-        //To go back:
-        let rightSwipe = UISwipeGestureRecognizer(target: webView, action: #selector(webView.goBack))
-        rightSwipe.direction = .right
-        webView.addGestureRecognizer(rightSwipe)
     }
 }
 
