@@ -6,6 +6,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "Webp.net-resizeimage (2)-1.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
@@ -16,6 +17,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "Webp.net-resizeimage (1).jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -26,6 +28,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "resized-image-Promo-1.jpeg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
@@ -47,6 +50,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "Webp.net-resizeimage-1.jpg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -57,6 +61,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "Webp.net-resizeimage (4).jpg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
@@ -67,6 +72,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Webp.net-resizeimage (3).jpg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
@@ -77,16 +83,19 @@
       "size" : "76x76"
     },
     {
+      "filename" : "Webp.net-resizeimage (5).jpg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
     },
     {
+      "filename" : "Webp.net-resizeimage (6).jpg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Webp.net-resizeimage (7).jpg",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
